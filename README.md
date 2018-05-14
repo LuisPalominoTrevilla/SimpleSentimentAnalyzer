@@ -1,4 +1,4 @@
 # Sentiment Analyzer
 
-Fourth assignement for the 2017 Data Structures Course.
+Fourth assignment for the 2017 Data Structures Course.
 Sentiment Analyzer using hash tables with chaining.
